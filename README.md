@@ -1,2 +1,2 @@
-# portfolio-website
-Just my portfolio website.
+# Helen C's Portfolio Website
+This is a cybersecurity and Flipper Zero-themed personal portfolio website showcasing Helen's technical skills, experience, and contact information. The site features a terminal-inspired design with animated elements, responsive layout, and a clean, professional aesthetic perfect for IT/cybersecurity professionals. Simply open index.html in any modern browser to view locally, or deploy to your preferred hosting service (like GitHub Pages) to make it publicly accessible. No additional dependencies required - just pure HTML, CSS, and JavaScript.
